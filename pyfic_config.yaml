@@ -1,0 +1,17 @@
+exclude_list:
+  excluded_directory: null
+  excluded_directory_recursive: null
+  excluded_file_type: null
+  excluded_files: null
+monitor_list:
+  included_directory: null
+  included_directory_recursive: null
+  included_file_types: null
+  included_files:
+  - C:/Users/User/OneDrive/My_Documents/coding/git/File_integrity_checker/pyfic_store.yaml
+  - C:/Users/User/OneDrive/My_Documents/coding/git/File_integrity_checker/pyfic_logger.py
+  - C:/Users/User/OneDrive/My_Documents/coding/git/File_integrity_checker/2020-data-breach-investigations-report.pdf
+  - C:/Users/User/OneDrive/My_Documents/coding/git/File_integrity_checker/Cyber
+    Study List & Resources.docx
+  - C:/Users/User/OneDrive/My_Documents/coding/git/File_integrity_checker/Network.pptx
+  - C:/Users/User/OneDrive/My_Documents/coding/git/File_integrity_checker/test_file.jpg

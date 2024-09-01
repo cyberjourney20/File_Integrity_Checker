@@ -1,0 +1,25 @@
+file_hashes:
+  C:/Users/User/OneDrive/My_Documents/coding/git/File_integrity_checker/2020-data-breach-investigations-report.pdf:
+    hash: 9473499282e40bfa2fad1a0f4c36420741be1368b63887faa8f2f2cd6197b86f
+    last_checked: '2024-07-07 13:17:18'
+    size: 6294662
+  C:/Users/User/OneDrive/My_Documents/coding/git/File_integrity_checker/Cyber Study List & Resources.docx:
+    hash: 54290336cb13fb2d9f1a46f883c599657d86361f082d1e0a5446dc5cbe934dc3
+    last_checked: '2024-07-07 13:17:18'
+    size: 18214
+  C:/Users/User/OneDrive/My_Documents/coding/git/File_integrity_checker/Network.pptx:
+    hash: f1494a05f1f6acb60058213866a301f1bf208b27097882660a01922ca2a4e8a6
+    last_checked: '2024-07-07 13:17:18'
+    size: 46098
+  C:/Users/User/OneDrive/My_Documents/coding/git/File_integrity_checker/pyfic_logger.py:
+    hash: 729f51a0fd506b69c3e4d14d7f58b09238cd4c866cf3f947d9cbccc0b42c941a
+    last_checked: '2024-07-07 13:17:18'
+    size: 1349
+  C:/Users/User/OneDrive/My_Documents/coding/git/File_integrity_checker/pyfic_store.yaml:
+    hash: 7121af0d610edcf12fc2f00e04b2f2a037fa8dee3f0bd323541a5a88ca6ed63e
+    last_checked: '2024-07-07 13:17:18'
+    size: 462
+  C:/Users/User/OneDrive/My_Documents/coding/git/File_integrity_checker/test_file.jpg:
+    hash: f2e668e790fb2dd22b8d971cf684b97ccd4282f9fcef359869009ceb31ee5106
+    last_checked: '2024-07-07 13:17:18'
+    size: 180565
